@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_display_cursor": true,
+  "option_operagx_editUrl": "",
+  "option_operagx_game_name": "Drac Pelt's Tower Defense",
+  "option_operagx_guid": "",
+  "option_operagx_internalShareUrl": "",
+  "option_operagx_interpolate_pixels": false,
+  "option_operagx_next_version": "1.0.0.0",
+  "option_operagx_publicShareUrl": "",
+  "option_operagx_scale": 0,
+  "option_operagx_team_id": "7a27ced8-12cc-4aa0-be26-836959347459",
+  "option_operagx_team_name": "DragonboyXVI studio",
+  "option_operagx_texture_page": "4096x4096",
+  "option_operagx_version": "1.0.0.0",
+}

@@ -1,0 +1,5 @@
+draw_sprite_ext(spr_tower_basic, 0, truex, truey, 2, 2, 0, c_white, 1)
+draw_sprite_ext(spr_tower_basic, 1, truex, truey, 2, 2, direction, c_white, 1)
+draw_text(x, y, level)
+draw_text(x, y+16, xp)
+draw_text(x, y+32, xp_to_level)

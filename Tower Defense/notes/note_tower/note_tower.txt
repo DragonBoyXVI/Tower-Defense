@@ -1,0 +1,26 @@
+1 - baisc {
+	
+	-Kobold Rock Thrower
+	Throws rocks at enemies. Good for early game but has limited scaling.
+	
+}
+
+2 - {
+	
+	-Kobold Miner
+	A close range brrawler that hits foes with a pickaxe. Has faster attack speed if it kills it's target.
+	
+} 
+
+3 -
+4 -
+5 -
+6 -
+7 -
+8 -
+9 -
+0 - HEROES {
+	
+	
+	
+}
